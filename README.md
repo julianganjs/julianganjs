@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Here's some fun projects 😄
 
 <!--
 **julianganjs/julianganjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
