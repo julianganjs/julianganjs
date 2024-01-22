@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a final year Electrical and Electronic Engineering undergraduate, and an aspiring software developer. I have a strong passion in coding, and enjoy working on interesting software projects. Check them out in the repositories below!
+I’m a final year Electrical and Electronic Engineering undergraduate, and an aspiring software developer. Having a strong passion in coding, I enjoy working on interesting and innovative software projects. Check them out in the repositories below!
 
 #### Languages 💻
 ![Javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
