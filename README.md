@@ -9,6 +9,7 @@ I’m a final year Electrical and Electronic Engineering undergraduate, and an a
 ![Java](https://img.shields.io/badge/java-f89917?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![VHDL](https://img.shields.io/badge/vhdl-8a8e03?style=for-the-badge)
 
