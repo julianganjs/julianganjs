@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m an Electrical and Electronic Engineering graduate with a strong passion in software development. That being said, I've worked on some interesting projects! Check them out in the repositories below!
+I’m an Electrical and Electronic Engineering graduate with a passion in software development. That being said, I've worked on some interesting projects! Check them out in the repositories below!
 
 #### Languages 💻
 ![Javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
